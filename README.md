@@ -3,7 +3,7 @@ Simple PHP AJAX CRUD
 
 Components:
   * <a href="http://parsleyjs.org/">Parsleyjs</a>
-  * <a href="https://alertifyjs.com/">Alertifyjs/a>
+  * <a href="https://alertifyjs.com/">Alertifyjs</a>
   * <a href="https://getbootstrap.com/">Bootstrap</a>
   * <a href="https://jquery.com/">Jquery</a>
   
