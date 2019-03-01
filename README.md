@@ -8,6 +8,6 @@ Components:
   * <a href="https://jquery.com/">Jquery</a>
   
 Installation:
-  * Move "Simple-PHP-AJAX-CRUD" to your "htdocs" or "www".
+  * Move this to your "htdocs" or "www".
   * Create database in your xampp or wamp name it "php_ajax_crud".
   * Import "php_ajax_crud.sql" located at "system/database/" to your database.
