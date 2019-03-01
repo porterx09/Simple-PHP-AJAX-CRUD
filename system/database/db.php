@@ -18,7 +18,7 @@ class Db {
     $this->con = mysqli_connect($this->host, $this->user, $this->pass, $this->dbname);
     if(!$this->con)
     {
-      header('Location: ../../pages/error/503.html');
+      header('Location: ../pages/error/503.html');
     }
   }
   
